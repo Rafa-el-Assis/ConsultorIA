@@ -28,7 +28,7 @@ Liderança de equipes e entender o sentimento dos seus funcionarios é uma taref
 Fiz o deploy por meio da Streamlit Cloud.
 Para acessar o aplicativo ConsultorIA, clique no link abaixo:
 
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iaconsultor.streamlit.app/)
 
 
 **Arquivos do Projeto:**
