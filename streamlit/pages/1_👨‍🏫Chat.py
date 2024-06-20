@@ -21,7 +21,7 @@ load_dotenv()
 
 
 # Carregar o arquivo
-dados1 = pd.read_csv('WA_Fn-UseC_-HR-Employee-Attrition.csv')
+dados1 = pd.read_csv('streamlit/WA_Fn-UseC_-HR-Employee-Attrition.csv')
 
 # Selecionar as colunas
 colunas_selecionadas = [
